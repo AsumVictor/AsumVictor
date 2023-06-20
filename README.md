@@ -1,6 +1,6 @@
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Owusu-Desmond&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxon7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsumVictor&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxon7" /> </p>
 <h1 align="center">Hi there👋
 <br>I'm Asum Victor 🙋🏼 Glad to see you😃 </h1>
 
