@@ -56,7 +56,7 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center"><b>
-<a href="https://owusu-desmond.github.io/portfolio/"><img src="https://img.shields.io/badge/-desmondDev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://asumvictor.github.io/me/"><img src="https://img.shields.io/badge/-asumvictor-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/victorasumdev"><img src="https://img.shields.io/badge/-AsumVictor-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:iamasum369@gmail.com"><img src="https://img.shields.io/badge/-iamasum369@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/aiasumcode"><img src="https://img.shields.io/badge/aiasumcode--E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
