@@ -4,7 +4,7 @@
 <h1 align="center">Hi there👋
 <br>I'm Asum Victor 🙋🏼 Glad to see you😃 </h1>
 
-<p><i>I'm <ins><b>Full Stack Web Developer</b></ins> with a year of experience in front-end and back-end development using languages such as JavaScript, HTML, and CSS and frameworks such as React, Node.js, TailwindCss and Boostrap. Strong problem-solving and attention to detail skills, resulting in the successful development and maintenance of multiple web applications. Excellent communication skills and ability to work in fast-paced environments</i></p>
+<p><i>I'm <ins><b>Full Stack Web Developer</b></ins> with two years of experience in front-end and back-end development using languages such as JavaScript, HTML, and CSS and frameworks such as React, Node.js, TailwindCss, and Boostrap. Strong problem-solving and attention to detail skills, resulting in the successful development and maintenance of multiple web applications. Excellent communication skills and ability to work in fast-paced environments</i></p>
 
 ## 👨🏻‍💻 &nbsp; More About Me
 
