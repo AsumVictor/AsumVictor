@@ -3,8 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsumVictor&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxon7" /> </p>
 <h1 align="center">Hi there👋
 <br>I'm Asum Victor 🙋🏼 Glad to see you😃 </h1>
+<p> [Vist Personal Website](https://vrasum.tech)</p>
 
-<p><i>I'm <ins><b>Full Stack Web Developer</b></ins> with two years of experience in front-end and back-end development using languages such as JavaScript, HTML, and CSS and frameworks such as React, Node.js, TailwindCss, and Boostrap. Strong problem-solving and attention to detail skills, resulting in the successful development and maintenance of multiple web applications. Excellent communication skills and ability to work in fast-paced environments</i></p>
+<p><i>I'm <ins><b>Full Stack Web Developer</b></ins> with two years of experience in front-end and back-end development using languages such as JavaScript, HTML, and CSS and frameworks such as React, Node.js, TailwindCss, and Bootstrap. Strong problem-solving and attention to detail skills, resulting in the successful development and maintenance of multiple web applications. Excellent communication skills and ability to work in fast-paced environments</i></p>
 
 ## 👨🏻‍💻 &nbsp; More About Me
 
@@ -16,7 +17,7 @@
 
 - 📫 You can send me an email at **iamasum369@gmail.com** I'll respond ASAP.
 
-- 📄  Please have a look at my [Portfolio](https://asumvictor.github.io/me) for more details about me. I'm open to feedback and suggestions!
+- 📄  Please have a look at my [Portfolio](https://vrasum.tech) for more details about me. I'm open to feedback and suggestions!
 
 - 😊 You can visit my interesting articles on [Dev.to](https://dev.to/asumvictordev) and share your suggestions.
 
