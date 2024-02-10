@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsumVictor&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxon7" /> </p>
 <h1 align="center">Hi there👋
 <br>I'm Asum Victor 🙋🏼 Glad to see you😃 </h1>
-<p> [Vist Personal Website](https://vrasum.tech)</p>
+[Vist Personal Website](https://vrasum.tech)
 
 <p><i>I'm <ins><b>Full Stack Web Developer</b></ins> with two years of experience in front-end and back-end development using languages such as JavaScript, HTML, and CSS and frameworks such as React, Node.js, TailwindCss, and Bootstrap. Strong problem-solving and attention to detail skills, resulting in the successful development and maintenance of multiple web applications. Excellent communication skills and ability to work in fast-paced environments</i></p>
 
