@@ -2,26 +2,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsumVictor&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxon7" /> </p>
 <h1 align="center">Hi there👋
-<br>I'm Asum Victor 🙋🏼 Glad to see you😃 </h1>
+<br>I'm Asum Victor Glad to see you </h1>
 - [Vist Personal Website](https://www.vrasum.tech)
 
 <p><i>I'm <ins><b>Full Stack Web Developer</b></ins> with two years of experience in front-end and back-end development using languages such as JavaScript, HTML, and CSS and frameworks such as React, Node.js, TailwindCss, and Bootstrap. Strong problem-solving and attention to detail skills, resulting in the successful development and maintenance of multiple web applications. Excellent communication skills and ability to work in fast-paced environments</i></p>
 
-## 👨🏻‍💻 &nbsp; More About Me
+##  &nbsp; More About Me
 
-- 🌱 I’m **[currently available for hire]()**.
+-  I’m **[currently available for hire]()**.
 
-- 🔭 I’m currently working with, **React and Typescript**
+-  I’m currently working with, **React and Typescript**
 
-- 💬 Ask me about **[JavaScript](), [React JS](), [Node JS](), and [Express JS]()**
+-  Ask me about **[JavaScript](), [React JS](), [Node JS](), and [Express JS]()**
 
-- 📫 You can send me an email at **iamasum369@gmail.com** I'll respond ASAP.
+-  You can send me an email at **iamasum369@gmail.com** I'll respond ASAP.
 
-- 📄  Please have a look at my [Portfolio](https://vrasum.tech) for more details about me. I'm open to feedback and suggestions!
+-  Please have a look at my [Portfolio](https://vrasum.tech) for more details about me. I'm open to feedback and suggestions!
 
-- 😊 You can visit my interesting articles on [Dev.to](https://dev.to/asumvictordev) and share your suggestions.
+-  You can visit my interesting articles on [Dev.to](https://dev.to/asumvictordev) and share your suggestions.
 
-- ⚡ Fun fact **I love Rap music and Solving puzzule**
+- Fun fact **I love Rap music and Solving puzzule**
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -47,7 +47,7 @@
 
 
 
-## ⚙️ &nbsp;GitHub Analytics
+##  &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AsumVictor">
@@ -56,7 +56,7 @@
 </a>
 </p>
 
-## 🤝🏻 &nbsp;Connect with Me
+##  &nbsp;Connect with Me
 
 <p align="center"><b>
 <a href="https://asumvictor.github.io/me/"><img src="https://img.shields.io/badge/-asumvictor-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
